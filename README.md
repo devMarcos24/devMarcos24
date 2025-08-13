@@ -12,7 +12,7 @@
 
 ### 🚀 Tecnologias & Ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,next,typescript,nodejs,express,prisma,tailwind,postgresql,mysql,git,github,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,nodejs,express,prisma,tailwind,postgresql,mysql,git,github,docker,aws" />
 </p>
 
 ---
