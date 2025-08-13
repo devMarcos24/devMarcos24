@@ -12,7 +12,7 @@
 
 ### 🚀 Tecnologias & Ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,next,typescript,nodejs,express,prisma,tailwind,postgresql,mysql,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,nodejs,express,prisma,tailwind,postgresql,mysql,git,github,docker,aws" />
 </p>
 
 ---
@@ -26,9 +26,8 @@
 ---
 
 ### 🌎 Vamos nos conectar!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosfelicio/)  
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seuportifolio.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmarcos24/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dev.marcos1995@gmail.com)
 
 ---
 
